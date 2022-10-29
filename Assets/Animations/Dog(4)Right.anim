@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Dog(4)Right
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -20,13 +20,13 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 3871875751745803513, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
+      value: {fileID: -842296018, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
     - time: 0.083333336
-      value: {fileID: 859166979879408427, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
+      value: {fileID: -43707257, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
     - time: 0.16666667
-      value: {fileID: -5993412246675911382, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
+      value: {fileID: -82262601, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
     - time: 0.25
-      value: {fileID: 7367601338415528726, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
+      value: {fileID: -1605437161, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -45,11 +45,12 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
     pptrCurveMapping:
-    - {fileID: 3871875751745803513, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
-    - {fileID: 859166979879408427, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
-    - {fileID: -5993412246675911382, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
-    - {fileID: 7367601338415528726, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
+    - {fileID: -842296018, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
+    - {fileID: -43707257, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
+    - {fileID: -82262601, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
+    - {fileID: -1605437161, guid: 4a3cf41c79481cc4e9e47703f0e2bc77, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
