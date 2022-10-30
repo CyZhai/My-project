@@ -24,6 +24,8 @@ public class UIManager : MonoBehaviour
 
     public void QuitGame()
     {
+        Debug.Log("Botton clicked");
+        UnityEditor.EditorApplication.isPlaying = false;
         Application.Quit();
     }
 
